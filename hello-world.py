@@ -1,4 +1,5 @@
-#!/usr/bin/python
+#Здесь была София Ильина
+# #!/usr/bin/python
 import subprocess,os
 from BaseHTTPServer import BaseHTTPRequestHandler,HTTPServer
 
